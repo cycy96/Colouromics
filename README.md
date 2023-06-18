@@ -1,5 +1,4 @@
 # Colouromics
-Colour selection was an enjoyable process, filled with creative exploration and appreciation.
 This website provides a wide range of colour palettes, along with their corresponding hex colour codes, 
 and it is completely free to use.
 
