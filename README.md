@@ -2,6 +2,9 @@
 This website provides a wide range of colour palettes, along with their corresponding hex colour codes, 
 and it is completely free to use.
 
+![Cover Colouromics (1)](https://github.com/cycy96/Colouromics/assets/127811480/483176c5-04e2-40e7-97dd-6d2adaacbb29)
+
+
 # Technologies used
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
