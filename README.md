@@ -14,4 +14,4 @@ and it is completely free to use.
 ✔️ About Colouromics <br> ✔️ Colour Categories <br>  ✔️ Colour Match Inspiration <br> 
 
 # Live Example
-To view a live example, follow this link: [colouromics.vercel.app](colouromics.vercel.app)
+To view a live example, follow this link: https://colouromics.vercel.app/
