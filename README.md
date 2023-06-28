@@ -18,3 +18,11 @@ and it is completely free to use.
 
 # Live Example
 To view a live example, follow this link: https://colouromics.vercel.app/
+
+# Message to share
+This is a front-end project to demonstrate my HTML, CSS and JavaScript knowledge.
+
+# Author
+Leong Chee Yan
+<br>
+https://github.com/cycy96
