@@ -20,7 +20,7 @@ and it is completely free to use.
 To view a live example, follow this link: https://colouromics.vercel.app/
 
 # Message to share
-This is a front-end project to demonstrate my HTML, CSS and JavaScript knowledge.
+This is a front-end project to demonstrate my HTML, CSS, JavaScript and Boostrap knowledge.
 
 # Author
 Leong Chee Yan
