@@ -154,6 +154,10 @@ body{
     padding: 5px;
 }
 
+.MoreAboutWorks {
+    text-align: right;
+}
+
 /* footer styling */
 #footer {
     background-color: #FFF4E9;
