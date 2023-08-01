@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.theme {
+    font-family: "Sofia", sans-serif;
+}
+
+.legend {
+    text-align: left;
+    font-size: 16px;
+}
+
+.hexcodes {
+    padding: 5px;
+}
+
+.MoreAboutWorks {
+    text-align: right;
+}
